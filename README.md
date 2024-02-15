@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects and learn more on how to develop software
 - 📫 How to reach me (somidele@icloud.com) 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 11.5 100m sprint time and a alllround sports fanatic
+- ⚡ Fun fact: 11.5s 100m sprint time and a all round sports fanatic
 
 <!---
 Somi-Awosika/Somi-Awosika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
